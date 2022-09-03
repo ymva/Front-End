@@ -1,0 +1,41 @@
+body header {
+    background-color:rgb(199, 199, 245);
+    margin-right:70%;
+    padding: 2em;
+}
+body header figure {
+    width: 80%;
+    padding: 2em;
+ 
+   
+}
+
+body header figure img {
+width: 50%;
+width: 100px;
+height:150px;
+border-radius:200px;
+border:8px solid rgb(87, 94, 111);
+
+}
+
+body nav {
+    background-color: cornflowerblue;
+    padding: 0.3em;
+}
+
+body main figure {
+
+    width: 15%;
+}
+
+body main figure img {
+
+    width: 100%;
+}
+body main figure figcaption{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+# 
